@@ -117,8 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/pv9K2d
-' target='_blank'><img src='https://2.bp.blogspot.com/-bWdnvYD9Cs4/WbKnZHiu9XI/AAAAAAAAAi0/lH30ZzTIou0yUCa5xVTkYxIOx17cJEsTgCLcBGAs/s640/C%25E1%25BB%2594NG%2BCH%25C3%2580O.jpg' width='500px'/><br/>1 Dự án Căn Hộ The Art </a>. Hotline: 0908611638. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/pv9K2d' target='_blank'><img src='https://2.bp.blogspot.com/-bWdnvYD9Cs4/WbKnZHiu9XI/AAAAAAAAAi0/lH30ZzTIou0yUCa5xVTkYxIOx17cJEsTgCLcBGAs/s640/C%25E1%25BB%2594NG%2BCH%25C3%2580O.jpg' width='500px'/><br/>1 Dự án Căn Hộ The Art </a>. Hotline: 0908611638. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
